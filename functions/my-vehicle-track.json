@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-vehicle-track-1521714635258",
+  "private_key_id": "47cb150805c329f37e329b3d0116ba16a817c283",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqDJyFm+0DqGnh\ng/bOOnEHDlRm5eJkNpFKcPOQ3N0YewAugqvaFMjo31wZAvF8HHTvNyY7m3I/naaI\n/s/BK0zfDntVjuRnWxb91WEPbRJH4CT5Eezl8slTtC58r+cAZecQvkpujzYIv/xd\nGoq/2nMhVEF2tJlWh0KVNAetPhOc22fWHXK/La9B79JJ66EArK0jGP3kFD1j2yp3\nlQyuIAwswDE+a/6d6wpgSam27tYqhjjGSMhDpMRSr97iTmhlE20vc8K43WRZ1WYP\n9CkHWnicYKyHvzrMF+vyY9VWn3ocTDFprUgSL/TZ4ymf3IE4mDJAWak/yLeT1nuI\n3cjR5WFfAgMBAAECggEADHAOtMESZW2YjPujfjMNGFiGeN5AoFbTaq/3SLW24DcC\n7OP24OUbStknedbaxdqo/OQ6QirdAOUtjKCinnzlyvzarYfdkee6N0e3qTKvnx04\nZxVWD/2hlyM7MTiGe2N4sqNQe2SzLZGpSkAKPP0j5aCthxqvioIrLxGWrCe5tIPD\nGFAz66tpgHCVT6MTl2EoLnnZIf4bw05hEF5S9oxCIW73L47E5sRxG9zGTiEbJbqt\nMNSNxc+r5ouaoCZSb0tUIXYxBPkHOz3IPydkotgylSANEnivaD1IopRrJ98fPNFF\nGQLgTNjo1O8eBox3KgA9oOFGo38ot/W+TtLYmj2vcQKBgQDmmXkX8qiu+Lf+WNo0\ny6mPmDdowlkrJ31BCoR61WuVTRH02gT16AoZZHjnNiHmhMPEwetheak6VSWpOna7\nqWYUrRwmJ9Gjel25KaFM22m3d3+/KO+vXfbKQ/Jv0ipsV23T1xKQCK8gbgqbJ0TN\nGShcPyUsnxFYIIg0kzjRiil9DwKBgQC8x7icEUL0tHO8UxmijLe65SlvHY1eehif\n+uOw9k56CoiUHBf4GW9oVDwYn/esLaIKTNmXQweLQrMwdjRovdN0ZenIq78GeQji\n0O1fsnOTVNtBdNOp0nEWJzC1sMTjsEfEH4sUw5xZz2xpiD2tULxApjvNan5gpUul\nYI3mDV92sQKBgQCcLy6ZTb16ZPMZzkxcneSGYW6GAbwrQl/PgbQhDhQD12NmF5Rs\niXDtqeNJlpx3aUy/IyitqJ056RnM+NAaYq3FK0p5fVa8BtEb7FpXl/SOUt2vN6a/\nfED+1e6KViptnvnAFVd5Pqh+qol8dKhg0b1IXWxsQICa083s7hn5sj5PeQKBgBOJ\nH4OXDbTBD9EHUHnP0huXJ2iGSGDkhbPYhMOFWa2rdWLOXXShPTQws19g/oJk3oXu\nWf4bQ6aXqm9zbA0Cx+UdvsmzbDtBPzgposbqcqdmeqIVcun6CxXdzF6hAl8FmQek\ntAHcFEv++RsarDdJSZHvIfUp9hYORPvCOCz8aUqhAoGBALnn704t/4QUy7Rsh865\n+3d/AFJhdb14Df0h4mpROZ7QAw7Jin8Y4oSGXS1ObhjVZKKldvPSTv8zl5lygjfS\nQqHmbMrWcEYts3wwYG6kNZzTcrUJtKmVwYBgFePF7Be7n0FxbNOxy8FkLzFPrdBD\nP7RyGbZxbqROyaBv+ByFLiUN\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wuxjx@my-vehicle-track-1521714635258.iam.gserviceaccount.com",
+  "client_id": "106966720058495358875",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wuxjx%40my-vehicle-track-1521714635258.iam.gserviceaccount.com"
+}
